@@ -1,0 +1,8 @@
+model\Model.class
+model\itemlist\Item.class
+model\itemlist\ItemInterface.class
+model\itemlist\ListItems.class
+model\itemlist\CombinedItem.class
+model\itemlist\ListManager.class
+model\itemlist\ListInterface.class
+model\ModelFactory.class

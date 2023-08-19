@@ -1,0 +1,239 @@
+{
+  "0": {
+    "CategoryName": "Electronics",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 01",
+        "StoreName": "AAAAA",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      },
+      "1": {
+        "ProductName": "Product 02",
+        "StoreName": "BBBBB",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      },
+      "2": {
+        "ProductName": "Product 03",
+        "StoreName": "CCCCC",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      },
+      "3": {
+        "ProductName": "Product 04",
+        "StoreName": "DDDDD",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      },
+      "4": {
+        "ProductName": "Product 05",
+        "StoreName": "EEEEE",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      },
+      "5": {
+        "ProductName": "Product 06",
+        "StoreName": "FFFFF",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      },
+      "6": {
+        "ProductName": "Product 07",
+        "StoreName": "GGGGG",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      },
+      "7": {
+        "ProductName": "Product 08",
+        "StoreName": "HHHHH",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      },
+      "8": {
+        "ProductName": "Product 09",
+        "StoreName": "IIIII",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 2,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": {
+          "StyleName2": "Style 2",
+          "StyleName1": "Style 1",
+          "StyleDesc1": "The first style of Electronics Product 9",
+          "StyleDesc2": "The second style of Electronics Product 9"
+        }
+      },
+      "9": {
+        "ProductName": "Product 10",
+        "StoreName": "JJJJJ",
+        "ProductImg": "https://cdn.wallpapersafari.com/57/86/RzsgpO.jpg",
+        "StyleNum": 5,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": {
+          "StyleName3": "Green",
+          "StyleName2": "Yellow",
+          "StyleName1": "Red",
+          "StyleDesc1": "A Red T-shirt",
+          "StyleDesc2": "A Yellow T-shirt",
+          "StyleDesc3": "A Green T-shirt",
+          "StyleDesc4": "A Blue T-shirt",
+          "StyleName5": "Pink",
+          "StyleName4": "Blue",
+          "StyleDesc5": "A Pink T-shirt"
+        }
+      }
+    }
+  },
+  "1": {
+    "CategoryName": "Mobile Phone",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 0101",
+        "StoreName": "000",
+        "ProductImg": "https://th.bing.com/th/id/OIP.vQY7fqqgQffCWJboFgFJbAHaFB?pid\u003dImgDet\u0026rs\u003d1",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      }
+    }
+  },
+  "2": {
+    "CategoryName": "Computer",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 0201",
+        "StoreName": "111",
+        "ProductImg": "https://3.bp.blogspot.com/-kFr9b3d9jZw/Vs2OK_J26YI/AAAAAAAAAm8/Y-KG4lsjOGQ/s1600/Desktop_computer-8.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      }
+    }
+  },
+  "3": {
+    "CategoryName": "Beauty and Personal Care",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 0301",
+        "StoreName": "222",
+        "ProductImg": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/931/523/Unilever-Global-Positive-Beauty.jpg?ve\u003d1\u0026tl\u003d1",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      }
+    }
+  },
+  "4": {
+    "CategoryName": "Men\u0027s Fashion",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 0401",
+        "StoreName": "333",
+        "ProductImg": "https://media.gq.com/photos/5873faf2b745bdd2729582ff/master/pass/170107_LCMFW17_DR07-6736.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      }
+    }
+  },
+  "5": {
+    "CategoryName": "Women\u0027s Fashion",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 0501",
+        "StoreName": "444",
+        "ProductImg": "https://th.bing.com/th/id/OIP.6fLrY3EKFXR_DpfkrtdESgHaLG?pid\u003dImgDet\u0026rs\u003d1",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      }
+    }
+  },
+  "6": {
+    "CategoryName": "Arts \u0026 Crafts",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 0601",
+        "StoreName": "555",
+        "ProductImg": "https://i-deals.net/wp-content/uploads/2020/07/81iZA2B0bvyL._AC_SL1200_.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      }
+    }
+  },
+  "7": {
+    "CategoryName": "Pet Supplies",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 0701",
+        "StoreName": "666",
+        "ProductImg": "https://th.bing.com/th/id/OIP.fBxSEUOmpriVif3fwIW1KAHaGp?pid\u003dImgDet\u0026rs\u003d1",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      }
+    }
+  },
+  "8": {
+    "CategoryName": "Toys \u0026 Games",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 0801",
+        "StoreName": "777",
+        "ProductImg": "https://i.etsystatic.com/6436116/r/il/cc12f6/1263496167/il_fullxfull.1263496167_1l9n.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      }
+    }
+  },
+  "9": {
+    "CategoryName": "Furniture",
+    "CategoryProducts": {
+      "0": {
+        "ProductName": "Product 0901",
+        "StoreName": "888",
+        "ProductImg": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/3/63100-38-35-21-13-t499-sd_1_1_4.jpg",
+        "StyleNum": 1,
+        "StockValue": 100,
+        "AverageReview": 4.9,
+        "ProductData": "Product Description"
+      }
+    }
+  }
+}

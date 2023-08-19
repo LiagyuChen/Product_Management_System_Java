@@ -1,0 +1,273 @@
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+/* search */
+header {
+    background-color: #333;
+    height: 80px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header h1 {
+    margin-left: 5%;
+}
+header form {
+    display: flex;
+    right: 120px;
+    position: absolute;
+}
+header input[type="text"] {
+    width: 250px;
+    height: 23px;
+    border: none;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+header input[type="submit"] {
+    background-color: #fff;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+    height: 25px;
+}
+.search-note {
+    position: relative;
+    right: 70px;
+    width: auto;
+    color: #f07171;
+}
+.search-no-list {
+    position: relative;
+    bottom: -40px;
+    margin-right: 165px;
+    background-color: white;
+    height: 50px;
+    width: 260px;
+    color: #ff6464;
+    font-size: 1.4em;
+    text-align: center;
+    font-weight: 700;
+}
+
+/* main */
+main {
+    padding: 20px;
+}
+.add-item {
+    margin-left: 5%;
+    width: 250px;
+    height: 60px;
+    background-color: #f3f8c6;
+    text-align: center;
+    font-size: 1.6em;
+    box-shadow: 4px 4px 2px rgba(0, 0, 0, 0.3);
+    padding: 3px;
+}
+.content-container {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: 10px;
+}
+.content-block {
+    width: 280px;
+    height: 200px;
+    background-color: #ebe9e9;
+    margin-bottom: 5%;
+    margin-right: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-radius: 10px;
+}
+.content-block-a {
+    position: absolute;
+    top: 60px;
+    width: 280px;
+    height: 130px;
+}
+.block-name {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: black;
+}
+.block-info {
+    font-size: 1.0em;
+    margin-bottom: 10px;
+    text-align: center;
+    color: black;
+}
+.block-actions {
+    position: absolute;
+    bottom: 140px;
+    right: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.block-actions a {
+    margin-bottom: 5px;
+    color: #ff6464;
+}
+
+/* add list */
+.modal {
+    position: fixed;
+    top: 35%;
+    left: 25%;
+    width: 50%;
+    height: 25%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 5;
+}
+.modal-content {
+    width: 100%;
+    background-color: #CCCCCC;
+    height: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+.modal h2 {
+    margin-top: 0;
+}
+.modal label {
+    display: block;
+    margin-bottom: 5px;
+}
+.modal select,
+.modal input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+.modal input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    bottom: -40px;
+    right: 20px;
+}
+.modal button[type="cancel"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    bottom: -40px;
+    left: 20px;
+}
+
+/* list rename */
+.rename-page {
+    position: fixed;
+    top: 35%;
+    left: 25%;
+    width: 35%;
+    height: 20%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 5;
+}
+.rename-page-content {
+    width: 100%;
+    background-color: #CCCCCC;
+    height: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+.rename-page input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+.rename-page input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    bottom: -40px;
+    right: 20px;
+}
+.rename-page button[type="cancel"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    bottom: -40px;
+    right: 440px;
+}
+
+/* list delete */
+.delete-page {
+    position: fixed;
+    top: 35%;
+    left: 25%;
+    width: 35%;
+    height: 15%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 5;
+}
+.delete-page-content {
+    width: 100%;
+    background-color: #CCCCCC;
+    height: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+.delete-page input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    bottom: -40px;
+    right: 20px;
+}
+.delete-page button[type="cancel"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    bottom: -40px;
+    right: 440px;
+}
+.list-delete-note {
+    color: red;
+}
+
