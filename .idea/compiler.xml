@@ -9,9 +9,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="COMP0004CourseWork" />
-        <module name="COMP0004CW" />
-        <module name="ListCourseworkSourceCode" />
+        <module name="productManageSystemJava" />
+        <module name="productManageSystem" />
+        <module name="productManageSystemSourceCode" />
         <module name="WebProductManager" />
         <module name="backendTest" />
       </profile>
