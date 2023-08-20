@@ -9,10 +9,10 @@ A product management system written in Java JSP and Servlet
 3. Categories and Products can be Viewed / Added / Edited / Deleted.
 
 ## Web Page
-！[The categories management page](/data/webpage1.png)
+![The categories management page](/data/webpage1.png)
 
 
-！[The products management page](/data/webpage2.png)
+![The products management page](/data/webpage2.png)
 
 
 ## Get Started
